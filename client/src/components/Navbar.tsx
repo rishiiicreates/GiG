@@ -39,7 +39,7 @@ const Navbar = () => {
               Services
             </a>
             <a 
-              href="#portfolio" 
+              href="https://rishiis-portfolio.onrender.com" 
               className={`${scrolled ? 'text-neutral-dark hover:text-primary' : 'text-neutral-dark hover:text-primary'} font-medium transition-all duration-300 relative after:absolute after:bottom-0 after:left-0 after:h-0.5 after:w-0 hover:after:w-full after:bg-primary after:transition-all after:duration-300`}
             >
               Portfolio
