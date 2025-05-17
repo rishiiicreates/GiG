@@ -57,7 +57,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#portfolio" className="text-gray-400 hover:text-primary transition-colors duration-200 flex items-center">
+                  <a href="https://rishiis-portfolio.onrender.com" className="text-gray-400 hover:text-primary transition-colors duration-200 flex items-center">
                     <ArrowRight className="h-3.5 w-3.5 mr-2 opacity-70" />
                     <span>Portfolio</span>
                   </a>
